@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2778/2778000.png", width="400", height="400">
+<img src="https://cdn-icons-png.flaticon.com/512/2778/2778000.png", width="300", height="300">
 </p>
 
 <h1 align="center"> DEDSEC ADVANCED KEYLOGGER </h1>
