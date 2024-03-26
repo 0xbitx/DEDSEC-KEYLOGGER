@@ -23,9 +23,6 @@ DAK is a Linux-based tool designed for discreetly capturing keystrokes, providin
    * Run the dedsec_keylogger tool from the terminal.
    * setup your webhook link.
 
-> [!NOTE]
-> DEDSEC_SHRED is intended for use in situations where data security is paramount, such as securely deleting confidential documents, personal files, or decommissioning storage devices.
-
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_KEYLOGGER.git
     * cd DEDSEC_KEYLOGGER
