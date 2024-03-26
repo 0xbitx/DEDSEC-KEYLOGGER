@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2778/2778000.png", width="400", height="400">
 </p>
 
-<h1 align="center"> KEYLOGGER </h1>
+<h1 align="center"> DEDSEC ADVANCED KEYLOGGER </h1>
 <h4 align="center">KEYLOGGER is a Linux-based tool for securely erasing files and directories, ensuring data irrecoverability. It offers customizable passes for overwriting data and provides visual feedback during the shredding process. Perfect for sensitive data disposal with peace of mind.</h4>
 
 
