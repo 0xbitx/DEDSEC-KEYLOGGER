@@ -18,6 +18,8 @@ DAK is a Linux-based tool designed for discreetly capturing keystrokes, providin
   * Persistent Payload: Maintains continuous operation across system reboots or shutdowns.
   
   * Custom Template Payload: Offers flexibility with customizable payload templates for tailored deployment.
+ 
+  * Discord Webhook Integration: Utilizes Discord webhooks to send captured data, enabling remote monitoring.
     
 ### Usage:
    * Run the dedsec_keylogger tool from the terminal.
