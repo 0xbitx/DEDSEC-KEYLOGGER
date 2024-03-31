@@ -14,7 +14,7 @@ DAK is a Linux-based tool designed for discreetly capturing keystrokes, providin
 
 <h3 align="center"> TOOL SCREENSHOT</h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_KEYLOGGER/blob/main/banner.png", width="900", height="900">
+<img src="https://github.com/0xbitx/DEDSEC-KEYLOGGER/blob/main/banner.png", width="900", height="900">
 </p>
 
 ### Features:
