@@ -1,10 +1,11 @@
 
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2778/2778000.png", width="300", height="300">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFlY21ld3R2MHdsb3d2OGR4M240OXhwM3hxeWc3dWNtamR2bHR5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp", width="500", height="500">
 </p>
 
-<h1 align="center"> DEDSEC ADVANCED KEYLOGGER </h1>
+<h1 align="center"> D A K </h1>
+<h4 align="center"> DEDSEC ADVANCED KEYLOGGER </h4>
 <h4 align="center"> DAK is a Linux-based keylogger tool designed for discreetly capturing linux machine keystrokes.</h4>
 
 
@@ -14,7 +15,7 @@ DAK is a Linux-based tool designed for discreetly capturing keystrokes, providin
 
 <h3 align="center"> TOOL SCREENSHOT</h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC-KEYLOGGER/blob/main/banner.png", width="900", height="900">
+<img src="https://media4.giphy.com/media/udK21RQeWtaGQ/200.webp?cid=ecf05e475xgvhr7j8gdswisgkgexnhj54cvm0j6ezrgs05hc&ep=v1_gifs_related&rid=200.webp&ct=g", width="900", height="900">
 </p>
 
 ### Features:
