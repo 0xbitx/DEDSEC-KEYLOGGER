@@ -6,7 +6,7 @@
 
 <h1 align="center"> D A K </h1>
 <h4 align="center"> DEDSEC ADVANCED KEYLOGGER </h4>
-<h4 align="center"> DAK is a Linux-based keylogger tool designed for discreetly capturing linux machine keystrokes.</h4>
+<h4 align="center"> DAK is a Linux-based persistent keylogger tool designed for discreetly capturing linux & windows machine keystrokes.</h4>
 
 
 ### DESCRIPTION
