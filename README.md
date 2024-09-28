@@ -13,11 +13,6 @@
 
 DAK is a Linux-based tool designed for discreetly capturing keystrokes, providing users with a stealthy payload capable of hiding within a victim's system. It boasts persistence capabilities, ensuring continuous operation. Captured keystrokes are encrypted for security and seamlessly transmitted to a designated Discord webhook. This tool guarantees data confidentiality and integrity, making it ideal for covert surveillance and monitoring purposes.
 
-<h3 align="center"> TOOL SCREENSHOT</h3>
-<p align="center">
-<img src="", width="900", height="900">
-</p>
-
 ### Features:
   * Stealth Payload: Operates discreetly within the victim's system, minimizing detection.
   
