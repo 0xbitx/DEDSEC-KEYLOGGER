@@ -33,6 +33,13 @@ DAK (DEDSEC ADVANCED KEYLOGGER) is a professional-grade keylogging framework ope
   * Start/Stop Control: Remotely control keylogger status
   * Machine Fingerprinting: Detailed system information collection (hostname, IP, MAC, hardware specs, OS, users, processes)
 
+## Tool Screenshots
+<p align="center">
+<img width="500" height="500" src="https://github.com/user-attachments/assets/f23dfe63-171d-4f2b-9b08-f80fa4b3d950" />
+<img width="500" height="500" src="https://github.com/user-attachments/assets/1efeb957-08b2-45bb-af74-92ed3f25b037" />
+<img width="500" height="500" src="https://github.com/user-attachments/assets/6aaae123-6f7b-44bf-9a82-85bb8c75935e" />
+</p>
+
 ### C2 Communication Flow
 ```text
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────────────────┐
