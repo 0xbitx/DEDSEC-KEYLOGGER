@@ -14,17 +14,24 @@ DAK (DEDSEC ADVANCED KEYLOGGER) is a professional-grade keylogging framework ope
 ## KEY FEATURES
 
   * Polymorphic Builder	Generates unique payloads with each build - no two binaries are identical
+    
   * Google Calendar C2	Uses Google Calendar API as dead-drop resolver for command & control
+    
   * Stealth Operation	No suspicious network traffic - blends with Google API calls
+    
   * Persistence Mechanism	Maintains operation across system reboots
+    
   * Kernel-Mode Keylogging	LKM operates in ring 0, capturing keystrokes via register_keyboard_notifier()
+    
   * Junk Code Injection: Random decoy classes and functions are inserted to confuse analysis
-  * Input Subsystem Hooking	Registers a keyboard notifier chain to capture all keyboard events
+    
   * Shift-Aware Capture	Handles shifted keys (uppercase, symbols) with proper mapping
+    
   * Stealth Storage	Writes to memory (RAM-based filesystem, no disk writes)
-  * Dual-Buffering System	Double buffering prevents data loss during write operations
-  * Workqueue Architecture	Asynchronous write operations don't block keyboard interrupts
+    
   * Code Injection	Injects kernel module loader into legitimate Python applications, maintaining original functionality while adding stealthy keylogging capabilities
+    
+  * Google-Only Communication	All payload traffic is restricted exclusively to Google domain (google.com) - no connections to suspicious IPs or unknown servers, making it indistinguishable from legitimate Google services traffic
 
 ## Command & Control
   * Multi-Machine Management: Control multiple infected hosts simultaneously
